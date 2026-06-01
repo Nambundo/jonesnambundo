@@ -22,15 +22,13 @@
 
 ## 🚀 Sobre Mim
 
-💻 Desenvolvedor Front-End com experiência em React, Next.js e TypeScript.
+💻 Desenvolvedor Front-End com experiências de mais de 2 anos.
 
 🎓 Doutorando em Engenharia Elétrica.
 
 🔬 Pesquisador em Inteligência Artificial, NILM, Smart Meters e Machine Learning.
 
 ⚡ Entusiasta de IoT, Sistemas Embarcados e Eficiência Energética.
-
-📚 Autor de artigo científico publicado no Simpósio Brasileiro de Telecomunicações (SBrT).
 
 ---
 
@@ -117,16 +115,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonesnambundo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesnambundo&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jonesnambundo&theme=tokyonight&margin-w=15&margin-h=15" />
 
 </div>
 
