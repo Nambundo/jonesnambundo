@@ -1,7 +1,8 @@
 # 👩🏻‍💻 Jones Nambumdo
 
-# Desenvolvedor Front-End 
+##'Desenvolvedor Front-End'## 
 # Mestrando em Engenharia Elétrica
+## Doutorado Engenharia Eletrica 
 
 Me chamo **Jones Marcio Nambundo**, Sou formado em Redes e Segurança Informática pelo INSIM Bejaia e especialista em Redes de Telecomunicações pelo Instituto Nacional de Telecomunicações (INATEL). Atualmente, curso o tecnólogo em Análise e Desenvolvimento de Sistemas e também sou mestrando em Engenharia Elétrica, com foco em Projetos de Circuitos Integrados e suas Aplicações.
 
