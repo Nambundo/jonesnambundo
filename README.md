@@ -79,16 +79,17 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 Estatítcas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JonesNambundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonesNambundo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nambundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nambundo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonesNambundo&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nambundo&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 <br/>
+
 
 ---
 
