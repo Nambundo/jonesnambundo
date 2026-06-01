@@ -20,7 +20,7 @@
   <a href="mailto:jonesnambundo@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="https://github.com/JonesNambundo">
+  <a href="https://github.com/Nambundo">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -40,28 +40,10 @@
 
 ## 🎓 Formação Académica
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/PhD-Em_Curso-7F77DD?style=flat-square&logoColor=white"/></td>
-    <td><strong>Engenharia Elétrica</strong></td>
-    <td><sub>IA · NILM · Smart Meters · ML</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MSc-Concluído-378ADD?style=flat-square&logoColor=white"/></td>
-    <td><strong>Engenharia Elétrica</strong></td>
-    <td><sub>Sistemas de Energia & Eficiência</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Especialista-Concluído-1D9E75?style=flat-square&logoColor=white"/></td>
-    <td><strong>Telecomunicações</strong></td>
-    <td><sub>Redes · Protocolos · Telecom</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/BSc-Concluído-888780?style=flat-square&logoColor=white"/></td>
-    <td><strong>Sistemas de Informação</strong></td>
-    <td><sub>Engenharia de Software & TI</sub></td>
-  </tr>
-</table>
+- 🟣 **PhD** · Engenharia Elétrica *(em curso)* — IA · NILM · Smart Meters · ML
+- 🔵 **MSc** · Engenharia Elétrica — Sistemas de Energia & Eficiência
+- 🟢 **Especialista** · Telecomunicações — Redes · Protocolos · Telecom
+- ⚫ **BSc** · Sistemas de Informação — Engenharia de Software & TI
 
 <br/>
 
@@ -79,7 +61,7 @@
 
 <br/>
 
-## 📊 Estatítcas
+## 📊 Estatísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nambundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
@@ -89,7 +71,6 @@
 </div>
 
 <br/>
-
 
 ---
 
