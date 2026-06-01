@@ -1,139 +1,49 @@
-<div align="center">
+<h1 align="center">Olá, eu sou Jones Nambundo 👋</h1>
 
-# 👨🏾‍💻 Jones Marcio Nambundo
+<h3 align="center">Frontend Developer · Researcher · IoT Enthusiast</h3>
 
-### Desenvolvedor Front-End | Pesquisador | Engenheiro
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Doutorando+em+Engenharia+El%C3%A9trica;Mestre+em+Engenharia+El%C3%A9trica;Especialista+em+Telecomunica%C3%A7%C3%B5es;Graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Front-End+React+e+Next.js" />
+## 🧑‍💻 Sobre Mim
 
-<br>
+- 💻 **Desenvolvedor Front-End** com mais de 2 anos de experiência
+- 🎓 **Doutorando** em Engenharia Elétrica
+- 🔬 **Pesquisador** em Inteligência Artificial, NILM, Smart Meters e Machine Learning
+- ⚡ **Entusiasta** de IoT, Sistemas Embarcados e Eficiência Energética
 
-<a href="https://www.linkedin.com/in/jonesnambundo/">
-<img src="https://img.shields.io/badge/LinkedIn-Jones%20Nambundo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:jonesnambundo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-jonesnambundo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🛠️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
----
+<br/>
 
-## 🚀 Sobre Mim
-
-💻 Desenvolvedor Front-End com experiências de mais de 2 anos.
-
-🎓 Doutorando em Engenharia Elétrica.
-
-🔬 Pesquisador em Inteligência Artificial, NILM, Smart Meters e Machine Learning.
-
-⚡ Entusiasta de IoT, Sistemas Embarcados e Eficiência Energética.
-
----
-
-## ⚡ My Techs
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,python,cpp,jest,git,vscode" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JonesNambundo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonesNambundo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JonesNambundo&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-## 🔬 Áreas de Interesse
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Inteligência Artificial
-
-- Machine Learning
-- Deep Learning
-- Redes Neurais
-- Análise Preditiva
-
-</td>
-
-<td width="50%">
-
-### ⚡ Energia Inteligente
-
-- NILM
-- Smart Meters
-- Eficiência Energética
-- Monitoramento em Tempo Real
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📡 IoT & Sistemas Embarcados
-
-- ESP32
-- Sensores Inteligentes
-- Automação
-- Edge Computing
-
-</td>
-
-<td>
-
-### 🌐 Desenvolvimento Web
-
-- React
-- Next.js
-- TypeScript
-- APIs REST
-- Testes com Jest
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🎓 Formação Acadêmica
-
-```text
-🎓 Doutorando em Engenharia Elétrica
-🎓 Mestre em Engenharia Elétrica
-📡 Especialista em Telecomunicações
-💻 Graduado em Sistemas de Informação
-```
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonesnambundo&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesnambundo&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonesnambundo&theme=tokyo-night"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 "Transformando ideias em soluções através da tecnologia."
-
-<img src="https://komarev.com/ghpvc/?username=jonesnambundo&color=blueviolet&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
