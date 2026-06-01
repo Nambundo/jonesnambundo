@@ -2,7 +2,7 @@
 
 # 👨🏾‍💻 Jones Marcio Nambundo
 
-### Desenvolvedor Front-End • Pesquisador • Engenheiro
+### Desenvolvedor Front-End | Pesquisador | Engenheiro
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Doutorando+em+Engenharia+El%C3%A9trica;Mestre+em+Engenharia+El%C3%A9trica;Especialista+em+Telecomunica%C3%A7%C3%B5es;Graduado+em+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Front-End+React+e+Next.js" />
 
